@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 150" />
-</div>  
-  
+   
 
 ### <div align="center">Soy Diego Desarrollador Front-end junior, amante de la tecnologia y estoy en busqueda de mi primer empleo como desarrollador💻</div>  
   
