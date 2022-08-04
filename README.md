@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Diego Nieves</h1>
 <h3 align="center">Desarrollador web frontend, con conocimientos de backend</h3>
 
-- 🌱 I’m currently learning **Vue, Python, Sass y Chackra UI**
+- 📖 Estoy aprendiendo **Vue, Python, Sass y Chackra UI**
 
-- 👨‍💻 All of my projects are available at [nvs-dlc.netlify.app](nvs-dlc.netlify.app)
+- 🔎 Todos mis proyectos están disponibles en [nvs-dlc.netlify.app](nvs-dlc.netlify.app)
 
-- 📫 How to reach me **nieves.diego0426@gmail.com**
+- 💬 Mi email **nieves.diego0426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
