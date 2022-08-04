@@ -3,7 +3,7 @@
 
 - 📖 Estoy aprendiendo **Vue, Python, Sass y Chackra UI**
 
-- 🔎 Todos mis proyectos están disponibles en [nvs-dlc.netlify.app](nvs-dlc.netlify.app)
+- 🔎 Todos mis proyectos están disponibles en [Mi portafolio](http://nvs-dlc.netlify.app)
 
 - 💬 Mi email **nieves.diego0426@gmail.com**
 
