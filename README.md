@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Diego Nieves</h1>
 <h3 align="center">Desarrollador web frontend, con conocimientos de backend</h3>
 
-- 📖 Estoy aprendiendo **Vue, Python, Sass y Chackra UI**
+- 📖 Estoy aprendiendo **Vue, Python y Sass **
 
 - 🔎 Todos mis proyectos están disponibles en [Mi portafolio](http://nvs-dlc.netlify.app)
 
