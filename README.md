@@ -60,9 +60,9 @@ CSS          34 mins         ▓░░░░░░░░░░░░░░░░
 Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
