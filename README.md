@@ -59,13 +59,10 @@ Reactjs      6 hrs 14 mins   ██████▒░░░░░░░░░░
 CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░   02.28 %
 Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&hide=javascript,html)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
+</div><br/>
 
 
 <p align="right">
