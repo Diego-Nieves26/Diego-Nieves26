@@ -8,6 +8,8 @@
 - <img src="./IMAGES/MUNDO_GIF.gif" width="20" />&nbsp;&nbsp;&nbsp; Me gustaria conocer el **MUNDO**. <br>
 - <img src="./IMAGES/PELICULAS_GIF.gif" width="25" />&nbsp;&nbsp; Disfruto mucho de las **Peliculas y Videojuegos**. <br>
 - <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**<br>
+- 🔎 Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/)
+- 💬 Mi email **nieves.diego0426@gmail.com**
 
 ```javascript
 // Tal vez no sea experto pero son mis bebes...
@@ -23,10 +25,7 @@ class Sobre extends Mi {
 }
 ```
 
-
-<h3 align="center">Desarrollador web frontend, con conocimientos de backend</h3>
-
-- 📖 Estoy aprendiendo **Vue, Python y Sass **
+<h3 align="center">Desarrollador web FRONT-END, con conocimientos de BACK-END</h3>
 
 - 🔎 Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/)
 
