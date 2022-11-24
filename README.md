@@ -8,8 +8,8 @@
 - <img src="./IMAGES/MUNDO_GIF.gif" width="20" />&nbsp;&nbsp;&nbsp; Me gustaria conocer el **MUNDO**. <br>
 - <img src="./IMAGES/PELICULAS_GIF.gif" width="25" />&nbsp;&nbsp; Disfruto mucho de las **Peliculas y Videojuegos**. <br>
 - <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**.<br>
-- 🔎 &nbsp; Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/).<br>
-- 💬 &nbsp; Mi email **nieves.diego0426@gmail.com**.<br>
+- 🔎 &nbsp;&nbsp; Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/).<br>
+- 💬 &nbsp;&nbsp; Mi email **nieves.diego0426@gmail.com**.<br>
 
 ```javascript
 // Tal vez no sea experto pero son mis bebes...
@@ -25,11 +25,9 @@ class Sobre extends Mi {
 }
 ```
 
-<h3 align="center">Desarrollador web FRONT-END, con conocimientos de BACK-END</h3>
+<h3 align="center">FRONT-END, con conocimientos de BACK-END de PERÚ <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
 
-- 🔎 Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/)
 
-- 💬 Mi email **nieves.diego0426@gmail.com**
 
 <h3 align="left">Puedes buscarme en:</h3>
 <p align="left"> <a href="https://discord.gg/K5tUgbWvpG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-nieves-04b409242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
