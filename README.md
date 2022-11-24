@@ -59,13 +59,12 @@ Reactjs      6 hrs 14 mins   ██████▒░░░░░░░░░░
 CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░   02.28 %
 Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
 ```
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8"/><img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
 </div><br/>
 
 
 <p align="right">
     |   <a href="https://discord.gg/K5tUgbWvpG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>	|    <a href="https://www.linkedin.com/in/diego-nieves-04b409242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>	|
 </p>
-
