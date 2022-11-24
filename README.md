@@ -26,7 +26,7 @@ class Sobre extends Mi {
 ```
 
 <h3 align="center">FRONT-END, con conocimientos de BACK-END de PERÚ <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
-<p><img width="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
+<p><img width="200" heigth="200" src="./IMAGES/BANDERA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" heigth="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
 
 
 <h3 align="left">Puedes buscarme en:</h3>
