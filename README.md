@@ -60,5 +60,5 @@ CSS          34 mins         ▓░░░░░░░░░░░░░░░░
 Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
 ```
 
-<p align="right"> <a href="https://discord.gg/K5tUgbWvpG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><div width="20"></div> <a href="https://www.linkedin.com/in/diego-nieves-04b409242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="right"> <a href="https://discord.gg/K5tUgbWvpG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/diego-nieves-04b409242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
