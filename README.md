@@ -4,16 +4,16 @@
 
 <h1 align="center">Hola <img src="./IMAGES/SALUD0_GIF.gif" width="35"/>, soy Diego Nieves</h1>
 
-- <img src="./IMAGES/PROGRAMADOR_GIF.gif" width="25" /> &nbsp; Estoy desarrollando en **Flutter & WebDev**. <img width="35%" align="right" src="./IMAGES/OSO_GIF.gif" /><br>
+- <img src="./IMAGES/PROGRAMADOR_GIF.gif" width="25" /> &nbsp; Estoy desarrollando en **Flutter & WebDev**. <img width="30%" align="right" src="./IMAGES/OSO_GIF.gif" /><br>
 - <img src="./IMAGES/MUNDO_GIF.gif" width="20" />&nbsp;&nbsp;&nbsp; Me gustaria conocer el **MUNDO**. <br>
 - <img src="./IMAGES/PELICULAS_GIF.gif" width="25" />&nbsp;&nbsp; Disfruto mucho de las **Peliculas y Videojuegos**. <br>
-- <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**.<br>
-- 🔎 &nbsp;&nbsp; Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/).<br>
+- <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**.<br><br>
+- 🔎 &nbsp;&nbsp; Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/).<br><br>
 - 💬 &nbsp;&nbsp; Mi email **nieves.diego0426@gmail.com**.<br>
 
 ```javascript
 // Tal vez no sea experto pero son mis bebes...
-class Sobre extends Mi { 
+class Sobre_Mi { 
   const MIS_HERRAMIENTAS = {  
     LENGUAJES_DE_PROGRAMACION : { "JavaScript", "Dart", "Python" },
     LENGUAJES_INFORMATICOS : { "HTML", "CSS", "Json" },
@@ -26,7 +26,7 @@ class Sobre extends Mi {
 ```
 
 <h3 align="center">FRONT-END, con conocimientos de BACK-END de PERÚ <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
-<p><img width="200" heigth="200" src="./IMAGES/BANDERA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" heigth="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
+<p><img width="200" height="200" src="./IMAGES/BANDERA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" heigth="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" heigth="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
 
 
 <h3 align="left">Puedes buscarme en:</h3>
