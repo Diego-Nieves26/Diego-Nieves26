@@ -2,7 +2,9 @@
     <img src="./IMAGES/DINO_GIF.gif" width="75%"/>
 </div><br/>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="./IMAGES/OSO_GIF.gif" /><br>
+<h1 align="center">Hola <img src="./IMAGES/SALUD0_GIF.gif"/>, soy Diego Nieves</h1>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img width="25%" align="right" alt="Github Image" src="./IMAGES/OSO_GIF.gif" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂 𝙋⚡ 乂 𝘿](https://t.me/spxd007)**<br>
@@ -10,7 +12,7 @@
 
 
 
-<h1 align="center">Hola 👋, soy Diego Nieves</h1>
+
 <h3 align="center">Desarrollador web frontend, con conocimientos de backend</h3>
 
 - 📖 Estoy aprendiendo **Vue, Python y Sass **
