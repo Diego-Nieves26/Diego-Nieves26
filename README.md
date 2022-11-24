@@ -10,12 +10,12 @@
 - <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**<br>
 
 ```javascript
-// tools_I_use organized
+// Tal vez no sea experto pero son mis bebes...
 class Sobre extends Mi { 
   const MIS_HERRAMIENTAS = {  
     LENGUAJES_DE_PROGRAMACION : { "JavaScript", "Dart", "Python" },
     LENGUAJES_INFORMATICOS : { "HTML", "CSS", "Json" },
-    LIBRERIAS_Y_FRAMEWORKS : { "Bootstrap", "TailwindCSS", "ChackraUI", "ReactJS", "VueJs", "entre otros" }
+    LIBRERIAS_Y_FRAMEWORKS : { "Bootstrap", "TailwindCSS", "ReactJS", "Flutter", "Sin espacio" }
     BASE_DE_DATOS : { "Firebase", "PostgreSQL", "MySQL", "MongoDB" },
     EDITOR_DE_COD : { "Vscode" },
     OTROS : { "Git", "Figma" }
