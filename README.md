@@ -2,14 +2,14 @@
     <img src="./IMAGES/DINO_GIF.gif" width="75%"/>
 </div><br/>
 
-<h1 align="center">𝙷𝚘𝚕𝚊 <img src="./IMAGES/SALUD0_GIF.gif" width="35"/>, soy Diego Nieves</h1>
+<h1 align="center">𝙷𝚘𝚕𝚊 <img src="./IMAGES/SALUD0_GIF.gif" width="35"/>, 𝚜𝚘𝚢 𝙳𝚒𝚎𝚐𝚘 𝙽𝚒𝚎𝚟𝚎𝚜</h1>
 
-- <img src="./IMAGES/PROGRAMADOR_GIF.gif" width="25" /> &nbsp; Estoy desarrollando en **Flutter & WebDev**. <img width="30%" align="right" src="./IMAGES/OSO_GIF.gif" /><br>
-- <img src="./IMAGES/MUNDO_GIF.gif" width="20" />&nbsp;&nbsp;&nbsp; Me gustaria conocer el **MUNDO**. <br>
-- <img src="./IMAGES/PELICULAS_GIF.gif" width="25" />&nbsp;&nbsp; Disfruto mucho de las **Peliculas y Videojuegos**. <br>
-- <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; Agregame en Linkedin: **[IOOO](https://www.linkedin.com/in/diego-nieves-04b409242/)**.<br>
-- 🔎 &nbsp;&nbsp; Todos mis proyectos están disponibles en [Mi portafolio](https://dlc.nvs.com.es/).<br>
-- 💬 &nbsp;&nbsp; Mi email **nieves.diego0426@gmail.com**.<br>
+- <img src="./IMAGES/PROGRAMADOR_GIF.gif" width="25" /> &nbsp; 𝙴𝚜𝚝𝚘𝚢 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚊𝚗𝚍𝚘 𝚎𝚗 **𝙵𝚕𝚞𝚝𝚝𝚎𝚛 & 𝚆𝚎𝚋**. <img width="30%" align="right" src="./IMAGES/OSO_GIF.gif" /><br>
+- <img src="./IMAGES/MUNDO_GIF.gif" width="20" />&nbsp;&nbsp;&nbsp; 𝙼𝚎 𝚐𝚞𝚜𝚝𝚊𝚛𝚒𝚊 𝚌𝚘𝚗𝚘𝚌𝚎𝚛 𝚎𝚕 **𝙼𝚄𝙽𝙳𝙾**. <br>
+- <img src="./IMAGES/PELICULAS_GIF.gif" width="25" />&nbsp;&nbsp; 𝙳𝚒𝚜𝚏𝚛𝚞𝚝𝚘 𝚖𝚞𝚌𝚑𝚘 𝚍𝚎 𝚕𝚊𝚜 **𝙿𝚎𝚕𝚒𝚌𝚞𝚕𝚊𝚜 𝚢 𝚅𝚒𝚍𝚎𝚘𝚓𝚞𝚎𝚐𝚘𝚜**. <br>
+- <img src="./IMAGES/LiINK_GIF.gif" width="25" /> &nbsp; 𝙰𝚐𝚛𝚎𝚐𝚊𝚖𝚎 𝚎𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗: **[𝙸𝙾](https://www.linkedin.com/in/diego-nieves-04b409242/)**.<br>
+- 🔎 &nbsp;&nbsp; 𝚃𝚘𝚍𝚘𝚜 𝚖𝚒𝚜 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚎𝚜𝚝á𝚗 𝚍𝚒𝚜𝚙𝚘𝚗𝚒𝚋𝚕𝚎𝚜 𝚎𝚗 [Mi portafolio](https://dlc.nvs.com.es/).<br>
+- 💬 &nbsp;&nbsp; 𝙼𝚒 𝚎𝚖𝚊𝚒𝚕 **nieves.diego0426@gmail.com**.<br>
 
 ```javascript
 // Tal vez no sea experto pero son mis bebes...
@@ -25,7 +25,7 @@ class Sobre_Mi {
 }
 ```
 
-<h3 align="center">FRONT-END, con conocimientos de BACK-END de PERÚ <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
+<h3 align="center">𝙵𝚁𝙾𝙽𝚃-𝙴𝙽𝙳, 𝚌𝚘𝚗 𝚌𝚘𝚗𝚘𝚌𝚒𝚖𝚒𝚎𝚗𝚝𝚘𝚜 𝚍𝚎 𝙱𝙰𝙲𝙺-𝙴𝙽𝙳 𝚍𝚎 𝙿𝙴𝚁Ú <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
 <p><img width="200" height="200" src="./IMAGES/BANDERA.jpg" /> <img width="200" height="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" height="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" height="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
 
 
