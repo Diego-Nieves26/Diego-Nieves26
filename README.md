@@ -61,8 +61,7 @@ Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░
 ```
 
 <div align="center">
-    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Nieves26&bg_color=0d1117&langs_count=8"/>
-    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
 </div><br/>
 
 
