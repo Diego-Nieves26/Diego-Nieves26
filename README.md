@@ -59,7 +59,7 @@ Reactjs      6 hrs 14 mins   ██████▒░░░░░░░░░░
 CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░   02.28 %
 Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
 ```
-
+<br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
 </div><br/>
