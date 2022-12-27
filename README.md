@@ -43,22 +43,6 @@ class Sobre_Mi {
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-
-
-<h3 align="center">𝙵𝚁𝙾𝙽𝚃-𝙴𝙽𝙳, 𝚌𝚘𝚗 𝚌𝚘𝚗𝚘𝚌𝚒𝚖𝚒𝚎𝚗𝚝𝚘𝚜 𝚍𝚎 𝙱𝙰𝙲𝙺-𝙴𝙽𝙳 𝚍𝚎 𝙿𝙴𝚁Ú <img src="./IMAGES/LLAMA_GIF.gif" width="30"/></h3>
-<div align="center">
-    <p><img width="200" height="200" src="./IMAGES/BANDERA.jpg" /> <img width="200" height="200" src="./IMAGES/MACHU_PICHU.jpeg" /> <img width="200" height="200" src="./IMAGES/SELECCION_PERUANA.jpg" /> <img width="200" height="200" src="./IMAGES/MONTAÑA_COLORES.jpg" /></p>
-</div><br/>
-
-📊 **𝚄𝚕𝚝𝚒𝚖𝚊𝚖𝚎𝚗𝚝𝚎 𝚖𝚎 𝚕𝚊 𝚙𝚊𝚜𝚘 𝚎𝚗:**
-<!--Prueba-->
-
-```text
-JavaScript   7 hrs 45 mins   ██████████████▓░░░░░░   48.31 %
-Reactjs      6 hrs 14 mins   ██████▒░░░░░░░░░░░░░░   25.11 %
-CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░   02.28 %
-Libre        8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░   25.28 %
-```
 <br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Diego-Nieves26&bg_color=0d1117"/>
